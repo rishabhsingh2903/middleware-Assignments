@@ -1,0 +1,29 @@
+[
+    {
+        "id":0,
+        "courseName":"IFT101",
+        "image":"T_T",
+        "from":"INFORMATION TECHNOLOGY",
+        "instructor":"DAVID ALDERMAN, TATIANA WALSH",
+        "credits":"4",
+        "description":"introduction to information technology"
+    },
+    {
+        "id":1,
+        "courseName":"IFT103",
+        "image":"<3",
+        "from":"INFORMATION TECHNOLOGY",
+        "instructor":"TATIANA WALSH",
+        "credits":"3",
+        "description":"introduction to information technology"
+    },
+    {
+        "id":2,
+        "courseName":"IFT106",
+        "image":"<3",
+        "from":"INFORMATION TECHNOLOGY",
+        "instructor":"TATIANA WALSH",
+        "credits":"2",
+        "description":"introduction to information technology"
+    }
+]
